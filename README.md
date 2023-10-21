@@ -5,5 +5,6 @@
 vercel
 vercel --prod
 ```
-** Got to website & copy from the *domain Name***
-<a href="https://vercel.com/dashboard">vercel</a>
+- ** Go to website & copy from the *domain Name***
+- <a href="https://vercel.com/dashboard">vercel</a>
+- Use the domain name for data loading
